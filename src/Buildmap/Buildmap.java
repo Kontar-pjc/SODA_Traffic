@@ -11,6 +11,7 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 
 public class Buildmap {
 	public static void main(String[] args) throws Exception{
+		//this is the git test word!!!
 		Path tabel1 = new Path("table1");
 		Path tabel2 = new Path("table2");
 		
